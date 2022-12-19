@@ -2,8 +2,4 @@
 
 my name is Najmiddin
 
-
-f
-dafdsafdsaf
-dsa
-f
+my surname is Sobirov
