@@ -7,7 +7,3 @@ f
 dafdsafdsaf
 dsa
 f
-dsa
-f
-dsa
-fdsa
